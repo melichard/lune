@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:044323c69f2d1f83da283da65a76fea9$ -->
+<TextureAtlas imagePath="atlas01.png">
+    <SubTexture name="01" x="997" y="2" width="23" height="31" frameX="-7" frameY="-2" frameWidth="35" frameHeight="35"/>
+    <SubTexture name="02" x="997" y="182" width="17" height="26" frameX="-12" frameY="-3" frameWidth="35" frameHeight="32"/>
+    <SubTexture name="03" x="997" y="210" width="17" height="25" frameX="-13" frameY="-2" frameWidth="35" frameHeight="29"/>
+    <SubTexture name="04a" x="997" y="112" width="17" height="38" frameX="-12" frameY="-5" frameWidth="35" frameHeight="46"/>
+    <SubTexture name="04b" x="1008" y="271" width="11" height="20" frameX="-11" frameY="-13" frameWidth="29" frameHeight="36"/>
+    <SubTexture name="05" x="997" y="152" width="17" height="28" frameX="-5" frameY="0" frameWidth="35" frameHeight="28"/>
+    <SubTexture name="06" x="997" y="60" width="21" height="25" frameX="-4" frameY="0" frameWidth="35" frameHeight="25"/>
+    <SubTexture name="07" x="997" y="35" width="23" height="23" frameX="-6" frameY="0" frameWidth="35" frameHeight="23"/>
+    <SubTexture name="08" x="997" y="87" width="19" height="23" frameX="-10" frameY="0" frameWidth="35" frameHeight="23"/>
+    <SubTexture name="09" x="991" y="271" width="15" height="18" frameX="-8" frameY="-1" frameWidth="35" frameHeight="20"/>
+    <SubTexture name="cloud" x="357" y="1196" width="294" height="140" frameX="-29" frameY="-12" frameWidth="350" frameHeight="184"/>
+    <SubTexture name="collectables/boostb" x="974" y="686" width="33" height="33" frameX="-11" frameY="-12" frameWidth="57" frameHeight="57"/>
+    <SubTexture name="collectables/boostcollected" x="991" y="237" width="28" height="32" frameX="-5" frameY="-3" frameWidth="40" frameHeight="40"/>
+    <SubTexture name="collectables/boostg" x="974" y="651" width="33" height="33" frameX="-11" frameY="-12" frameWidth="57" frameHeight="57"/>
+    <SubTexture name="collectables/boostr" x="974" y="616" width="33" height="33" frameX="-11" frameY="-12" frameWidth="57" frameHeight="57"/>
+    <SubTexture name="collectables/boosty" x="974" y="581" width="33" height="33" frameX="-11" frameY="-12" frameWidth="57" frameHeight="57"/>
+    <SubTexture name="collectables/nutt0" x="357" y="868" width="57" height="57"/>
+    <SubTexture name="collectables/nutt1" x="475" y="809" width="57" height="57"/>
+    <SubTexture name="collectables/nutt2" x="416" y="809" width="57" height="57"/>
+    <SubTexture name="collectables/nutt3" x="357" y="809" width="57" height="57"/>
+    <SubTexture name="nutt" x="416" y="868" width="53" height="53"/>
+    <SubTexture name="nutt0" x="974" y="544" width="35" height="35" frameX="-3" frameY="-3" frameWidth="41" frameHeight="41"/>
+    <SubTexture name="nuttx" x="974" y="496" width="46" height="46" frameX="-2" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="part" x="991" y="291" width="15" height="15"/>
+    <SubTexture name="tree0" x="357" y="960" width="340" height="234" frameX="-9" frameY="0" frameWidth="350" frameHeight="234"/>
+    <SubTexture name="tree1" x="795" y="2" width="200" height="220" frameX="0" frameY="-14" frameWidth="200" frameHeight="234"/>
+    <SubTexture name="trees/front/tree_01" x="551" y="530" width="421" height="428" frameX="-24" frameY="-38" frameWidth="475" frameHeight="482"/>
+    <SubTexture name="trees/front/tree_01b" x="551" y="292" width="232" height="236" frameX="-81" frameY="-118" frameWidth="400" frameHeight="396"/>
+    <SubTexture name="trees/front/tree_02" x="2" y="292" width="547" height="515" frameX="-35" frameY="-38" frameWidth="613" frameHeight="569"/>
+    <SubTexture name="trees/front/tree_02b" x="699" y="960" width="302" height="284" frameX="-46" frameY="-75" frameWidth="400" frameHeight="396"/>
+    <SubTexture name="trees/front/tree_03" x="2" y="809" width="353" height="489" frameX="-118" frameY="-64" frameWidth="613" frameHeight="569"/>
+    <SubTexture name="trees/front/tree_03b" x="795" y="224" width="194" height="270" frameX="-94" frameY="-89" frameWidth="400" frameHeight="396"/>
+    <SubTexture name="trees/hills" x="2" y="2" width="791" height="288" frameX="-9" frameY="-37" frameWidth="809" frameHeight="374"/>
+    <SubTexture name="trees/source" x="2" y="1300" width="248" height="310" frameX="-97" frameY="-175" frameWidth="424" frameHeight="500"/>
+</TextureAtlas>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="flump-runtime">
+    <configurations>
+      <configuration name="flump-runtime" output-type="Library" output-file="flump-runtime.swc" output-folder="$MODULE_DIR$/dist">
+        <dependencies target-player="11.5">
+          <entries>
+            <entry library-id="445aa52a-c8c1-49ed-b1e5-261e37ec3b7a">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="6c046897-52eb-44d8-a1e9-a20ecf2751ce">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="8ab50ac0-c109-4e68-a707-fea5e7cff79c">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="88e981eb-5764-4d95-a9fe-b5bf5b49e996">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="bb2ab694-999d-4d80-9d24-dbf6a34f0f61">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="21f9bed6-e447-4220-940f-413de4e2855f">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="flex_sdk_4.6 w ajr" />
+        </dependencies>
+        <compiler-options>
+          <map>
+            <entry key="compiler.locale" value="" />
+          </map>
+        </compiler-options>
+        <packaging-air-desktop />
+        <packaging-android />
+        <packaging-ios />
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/as" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="flex_sdk_4.6 w ajr" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="445aa52a-c8c1-49ed-b1e5-261e37ec3b7a" />
+        <CLASSES>
+          <root url="jar://$M2_REPO$/org/osflash/signals/0.9/signals-0.9.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="6c046897-52eb-44d8-a1e9-a20ecf2751ce" />
+        <CLASSES>
+          <root url="jar://$M2_REPO$/deng/fzip/a5430bd/fzip-a5430bd.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="8ab50ac0-c109-4e68-a707-fea5e7cff79c" />
+        <CLASSES>
+          <root url="jar://$M2_REPO$/com/gamua/starling-framework/1.3/starling-framework-1.3.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="88e981eb-5764-4d95-a9fe-b5bf5b49e996" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../starling.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="bb2ab694-999d-4d80-9d24-dbf6a34f0f61" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../fzip-master/bin/fzip.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="21f9bed6-e447-4220-940f-413de4e2855f" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../signals-0.9.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+

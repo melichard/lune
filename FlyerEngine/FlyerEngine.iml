@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="FlyerEngine">
+    <configurations>
+      <configuration name="FlyerEngine" target-platform="Desktop" output-type="Library" output-file="FlyerEngine.swc" output-folder="$MODULE_DIR$/bin">
+        <dependencies>
+          <entries>
+            <entry module-name="pixelmask-master" build-configuration-name="pixelmask-master">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry module-name="GraphicsProvider" build-configuration-name="GraphicsProvider">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="010ca2a9-2d5c-4642-a654-78a839bde7ea">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="ac6775cb-ae91-48cb-b787-136c14dff3f7">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry module-name="flump-runtime" build-configuration-name="flump-runtime">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="flex_sdk_4.6 w ajr" />
+        </dependencies>
+        <compiler-options>
+          <map>
+            <entry key="compiler.locale" value="en_US" />
+          </map>
+        </compiler-options>
+        <packaging-air-desktop />
+        <packaging-android />
+        <packaging-ios />
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="flex_sdk_4.6 w ajr" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="010ca2a9-2d5c-4642-a654-78a839bde7ea" />
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../libs" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../libs" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="ac6775cb-ae91-48cb-b787-136c14dff3f7" />
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../libs/pixelmask-master" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../libs/pixelmask-master" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="GraphicsProvider" exported="" />
+    <orderEntry type="module" module-name="pixelmask-master" exported="" />
+    <orderEntry type="library" exported="" name="libs" level="project" />
+    <orderEntry type="module" module-name="flump-runtime" exported="" />
+  </component>
+</module>
+

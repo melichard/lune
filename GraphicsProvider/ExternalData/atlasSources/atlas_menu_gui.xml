@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:70812469f7575961e76181c54287fa29$ -->
+<TextureAtlas imagePath="atlas_menu_gui.png">
+    <SubTexture name="menu/acheviements_item" x="2" y="1967" width="73" height="73"/>
+    <SubTexture name="menu/menu_achievements_background" x="2" y="804" width="960" height="134" frameX="0" frameY="-59" frameWidth="960" frameHeight="224"/>
+    <SubTexture name="menu/menu_achievements_over" x="1404" y="723" width="407" height="100" frameX="0" frameY="0" frameWidth="423" frameHeight="100"/>
+    <SubTexture name="menu/menu_achievements_over_line" x="964" y="804" width="407" height="2" frameX="0" frameY="0" frameWidth="423" frameHeight="2"/>
+    <SubTexture name="menu/menu_button_i" x="143" y="1967" width="64" height="63" frameX="-7" frameY="-4" frameWidth="78" frameHeight="71"/>
+    <SubTexture name="menu/menu_button_i_h" x="267" y="1967" width="56" height="55" frameX="-10" frameY="-8" frameWidth="78" frameHeight="71"/>
+    <SubTexture name="menu/menu_button_volume" x="77" y="1967" width="64" height="63" frameX="-7" frameY="-4" frameWidth="78" frameHeight="71"/>
+    <SubTexture name="menu/menu_button_volume_h" x="209" y="1967" width="56" height="55" frameX="-10" frameY="-8" frameWidth="78" frameHeight="71"/>
+    <SubTexture name="menu/menu_logo_e" x="1909" y="636" width="98" height="120" frameX="-4" frameY="-23" frameWidth="124" frameHeight="158"/>
+    <SubTexture name="menu/menu_logo_l" x="2" y="1333" width="96" height="120" frameX="-10" frameY="-36" frameWidth="124" frameHeight="158"/>
+    <SubTexture name="menu/menu_logo_n" x="809" y="1058" width="112" height="114" frameX="-7" frameY="-29" frameWidth="124" frameHeight="158"/>
+    <SubTexture name="menu/menu_logo_u" x="809" y="940" width="124" height="116" frameX="0" frameY="-30" frameWidth="124" frameHeight="158"/>
+    <SubTexture name="menu/menu_planet" x="295" y="1897" width="29" height="29"/>
+    <SubTexture name="menu/menu_planet_shadow" x="1813" y="758" width="188" height="92"/>
+    <SubTexture name="menu/menu_play" x="1909" y="532" width="103" height="102" frameX="-5" frameY="-7" frameWidth="115" frameHeight="116"/>
+    <SubTexture name="menu/menu_play_h" x="100" y="1333" width="95" height="94" frameX="-9" frameY="-11" frameWidth="115" frameHeight="116"/>
+    <SubTexture name="menu/menu_sun" x="1404" y="2" width="611" height="528" frameX="-26" frameY="0" frameWidth="665" frameHeight="538"/>
+    <SubTexture name="menu/menubg" x="2" y="2" width="1400" height="800"/>
+    <SubTexture name="menu/nebulas/nebula_over_1" x="964" y="835" width="805" height="407" frameX="-20" frameY="0" frameWidth="843" frameHeight="409"/>
+    <SubTexture name="menu/nebulas/nebula_over_2" x="2" y="940" width="805" height="188" frameX="-13" frameY="-36" frameWidth="843" frameHeight="224"/>
+    <SubTexture name="menu/nebulas/nebula_over_3" x="1404" y="532" width="503" height="189" frameX="0" frameY="-15" frameWidth="527" frameHeight="233"/>
+    <SubTexture name="menu/nebulas/nebula_over_4" x="698" y="1182" width="254" height="349" frameX="0" frameY="0" frameWidth="272" frameHeight="349"/>
+    <SubTexture name="menu/nebulas/nebula_over_5" x="2" y="1130" width="694" height="201" frameX="-3" frameY="0" frameWidth="768" frameHeight="219"/>
+    <SubTexture name="menu/nebulas/nebula_over_6" x="295" y="1533" width="240" height="331" frameX="-18" frameY="0" frameWidth="288" frameHeight="347"/>
+    <SubTexture name="menu/nebulas/nebula_over_7" x="2" y="1533" width="291" height="432" frameX="0" frameY="-12" frameWidth="323" frameHeight="456"/>
+    <SubTexture name="menu/nebulas/nebula_over_8" x="1771" y="870" width="258" height="468" frameX="-22" frameY="-8" frameWidth="298" frameHeight="496"/>
+    <SubTexture name="menu/planet/planet0001" x="295" y="1866" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0002" x="290" y="1395" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0003" x="290" y="1364" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0004" x="290" y="1333" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0005" x="290" y="1333" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0006" x="281" y="1488" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0007" x="281" y="1457" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0008" x="281" y="1426" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0009" x="259" y="1395" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0010" x="259" y="1395" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0011" x="259" y="1364" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0012" x="259" y="1333" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0013" x="250" y="1488" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0014" x="250" y="1457" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0015" x="250" y="1457" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0016" x="250" y="1426" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0017" x="228" y="1395" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0018" x="228" y="1364" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0019" x="228" y="1364" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0020" x="228" y="1333" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0021" x="219" y="1488" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0022" x="219" y="1457" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0023" x="219" y="1426" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0024" x="219" y="1426" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0025" x="197" y="1395" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0026" x="197" y="1364" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0027" x="197" y="1333" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0028" x="197" y="1333" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0029" x="188" y="1491" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0030" x="188" y="1460" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0031" x="188" y="1429" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0032" x="157" y="1491" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0033" x="157" y="1491" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0034" x="157" y="1460" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0035" x="157" y="1429" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0036" x="126" y="1491" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0037" x="126" y="1491" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0038" x="126" y="1460" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0039" x="126" y="1429" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0040" x="95" y="1486" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0041" x="95" y="1455" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0042" x="95" y="1455" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0043" x="64" y="1486" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0044" x="64" y="1455" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0045" x="33" y="1486" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0046" x="33" y="1486" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0047" x="33" y="1455" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0048" x="2" y="1486" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0049" x="2" y="1455" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0050" x="760" y="1130" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0051" x="760" y="1130" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0052" x="729" y="1130" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0053" x="698" y="1130" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0054" x="923" y="1151" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0055" x="923" y="1120" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0056" x="923" y="1120" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0057" x="923" y="1089" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0058" x="923" y="1058" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0059" x="1771" y="825" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0060" x="1771" y="825" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0061" x="1373" y="804" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0062" x="2003" y="839" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0063" x="2003" y="808" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0064" x="2003" y="777" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0065" x="2003" y="777" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0066" x="1875" y="723" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0067" x="1844" y="723" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0068" x="1813" y="723" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0069" x="1813" y="723" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0070" x="2009" y="746" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0071" x="2009" y="715" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0072" x="2009" y="684" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0073" x="2009" y="653" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0074" x="2009" y="653" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0075" x="2014" y="622" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0076" x="2014" y="591" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0077" x="2014" y="560" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0078" x="2014" y="560" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0079" x="2017" y="529" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0080" x="2017" y="498" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0081" x="2017" y="467" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0082" x="2017" y="436" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0083" x="2017" y="436" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0084" x="2017" y="405" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0085" x="2017" y="374" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0086" x="2017" y="343" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0087" x="2017" y="343" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0088" x="2017" y="312" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0089" x="2017" y="281" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0090" x="2017" y="250" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0091" x="2017" y="219" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0092" x="2017" y="219" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0093" x="2017" y="188" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0094" x="2017" y="157" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0095" x="2017" y="126" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0096" x="2017" y="95" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0097" x="2017" y="95" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0098" x="2017" y="64" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0099" x="2017" y="33" width="29" height="29"/>
+    <SubTexture name="menu/planet/planet0100" x="2017" y="2" width="29" height="29"/>
+</TextureAtlas>

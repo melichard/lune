@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="Test">
+    <configurations>
+      <configuration name="Test" target-platform="Desktop" pure-as="true" main-class="Editor" output-file="Test.swf" output-folder="$MODULE_DIR$/../bin/production/Test">
+        <dependencies target-player="11.1">
+          <entries>
+            <entry library-id="38356738-6e46-4d17-bcde-48eff5211dfc">
+              <dependency linkage="Test" />
+            </entry>
+            <entry library-id="1babd1c9-339e-4e2b-8fca-261dc19365d9">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="85db1456-b078-436b-9f73-04ca449862fc">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry module-name="GraphicsProvider" build-configuration-name="GraphicsProvider">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="d6016cb4-dfb2-43c8-8bb2-6e7037c13bdd">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry module-name="FlyerEngine" build-configuration-name="FlyerEngine">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="4.6.0+AIR3.2" />
+        </dependencies>
+        <compiler-options>
+          <option name="additionalOptions" value="-swf-version=15" />
+        </compiler-options>
+        <packaging-air-desktop use-generated-descriptor="false" custom-descriptor-path="$MODULE_DIR$/../app/editor-descriptor.xml" package-file-name="Test" />
+        <packaging-android />
+        <packaging-ios />
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="4.6.0+AIR3.2" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library type="flex">
+        <properties id="38356738-6e46-4d17-bcde-48eff5211dfc" />
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../ivancuraja/squirell/Project v2/trunk v0.3/ExternalData" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library type="flex">
+        <properties id="1babd1c9-339e-4e2b-8fca-261dc19365d9" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../ivancuraja/squirell/Project v2/trunk v0.3/libs/starling.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library type="flex">
+        <properties id="85db1456-b078-436b-9f73-04ca449862fc" />
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../libs" />
+          <root url="file://$MODULE_DIR$/../libs/Box2d-Sources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../libs/Box2d-Sources" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/../libs" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="GraphicsProvider" />
+    <orderEntry type="module-library">
+      <library type="flex">
+        <properties id="d6016cb4-dfb2-43c8-8bb2-6e7037c13bdd" />
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../libs/minimalcomps-minimalcomps-ea455ee/src" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../libs/minimalcomps-minimalcomps-ea455ee/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="FlyerEngine" />
+  </component>
+</module>
+

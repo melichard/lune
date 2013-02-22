@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AirFlyer/AirFlyer.iml" filepath="$PROJECT_DIR$/AirFlyer/AirFlyer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AirFlyerDesktop/AirFlyerDesktop.iml" filepath="$PROJECT_DIR$/AirFlyerDesktop/AirFlyerDesktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlyerEditor/FlyerEditor.iml" filepath="$PROJECT_DIR$/FlyerEditor/FlyerEditor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlyerEngine/FlyerEngine.iml" filepath="$PROJECT_DIR$/FlyerEngine/FlyerEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphicsProvider/GraphicsProvider.iml" filepath="$PROJECT_DIR$/GraphicsProvider/GraphicsProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/flump/flump-runtime.iml" filepath="$PROJECT_DIR$/libs/flump/flump-runtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/pixelmask-master/pixelmask-master.iml" filepath="$PROJECT_DIR$/libs/pixelmask-master/pixelmask-master.iml" />
+    </modules>
+  </component>
+</project>
+

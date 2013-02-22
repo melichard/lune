@@ -1,0 +1,13 @@
+<LevelDefinitions>
+  <Level id="1">
+    <Planet size="350" x="0" y="330"/>
+  </Level>
+  <Level id="asdd">
+    <Planet size="200" x="0" y="330"/>
+    <Object id="nutt" x="0" y="1"/>
+  </Level>
+  <Level id="sad">
+    <Planet size="480" x="0" y="480"/>
+    <Object id="tree02b" x="15" y="0"/>
+  </Level>
+</LevelDefinitions>

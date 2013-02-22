@@ -1,0 +1,628 @@
+<ObjectDefinitions>
+  <Object id="v09" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="09"/>
+        <Polygon>
+          <Point id="1" x="0" y="-7"/>
+          <Point id="2" x="-5" y="2"/>
+          <Point id="3" x="4" y="10"/>
+          <Point id="4" x="8" y="-2"/>
+        </Polygon>
+        <Pivot x="14.5" y="8.5"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="v08" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="08"/>
+        <Polygon>
+          <Point id="1" x="8" y="-9"/>
+          <Point id="2" x="-3" y="6"/>
+          <Point id="3" x="6" y="15"/>
+          <Point id="4" x="16" y="0"/>
+        </Polygon>
+        <Pivot x="14.5" y="9.5"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="v07" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="07"/>
+        <Polygon>
+          <Point id="1" x="-7" y="0"/>
+          <Point id="2" x="0" y="12"/>
+          <Point id="3" x="13" y="8"/>
+          <Point id="4" x="8" y="-8"/>
+        </Polygon>
+        <Pivot x="14.5" y="9.5"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="v06" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="06"/>
+        <Polygon>
+          <Point id="1" x="-9" y="-5"/>
+          <Point id="2" x="-3" y="15"/>
+          <Point id="3" x="9" y="6"/>
+          <Point id="4" x="3" y="-7"/>
+        </Polygon>
+        <Pivot x="14.5" y="10.5"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="v05" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="05"/>
+        <Polygon>
+          <Point id="1" x="2" y="-9"/>
+          <Point id="2" x="-8" y="15"/>
+          <Point id="3" x="7" y="14"/>
+          <Point id="4" x="6" y="-4"/>
+        </Polygon>
+        <Pivot x="14.5" y="11.5"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="v04b" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="04b"/>
+        <Polygon>
+          <Point id="1" x="-1" y="-2"/>
+          <Point id="2" x="0" y="15"/>
+          <Point id="3" x="6" y="14"/>
+          <Point id="4" x="4" y="-1"/>
+        </Polygon>
+        <Pivot x="14.5" y="18"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="v04" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="04a"/>
+        <Polygon>
+          <Point id="1" x="0" y="-12"/>
+          <Point id="2" x="5" y="14"/>
+          <Point id="3" x="14" y="25"/>
+          <Point id="4" x="10" y="-10"/>
+        </Polygon>
+        <Pivot x="14.5" y="18"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="v03" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="03"/>
+        <Polygon>
+          <Point id="1" x="1" y="0"/>
+          <Point id="2" x="0" y="16"/>
+          <Point id="3" x="10" y="16"/>
+          <Point id="4" x="13" y="-7"/>
+        </Polygon>
+        <Pivot x="14.5" y="10"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="v02" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="02"/>
+        <Polygon>
+          <Point id="1" x="3" y="-4"/>
+          <Point id="2" x="3" y="16"/>
+          <Point id="3" x="15" y="17"/>
+          <Point id="4" x="12" y="-5"/>
+        </Polygon>
+        <Pivot x="14.5" y="10.5"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="v01" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="01"/>
+        <Polygon>
+          <Point id="1" x="-3" y="-4"/>
+          <Point id="2" x="-4" y="15"/>
+          <Point id="3" x="14" y="20"/>
+          <Point id="4" x="12" y="-10"/>
+        </Polygon>
+        <Pivot x="14.5" y="13.5"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="nutt0" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="collectables/nutt0"/>
+        <Polygon>
+          <Point id="1" x="0" y="-17"/>
+          <Point id="2" x="-18" y="1"/>
+          <Point id="3" x="0" y="19"/>
+          <Point id="4" x="18" y="1"/>
+        </Polygon>
+        <Pivot x="28.5" y="28.5"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="nutt1" onePolygon="false" score="75">
+    <Score score="75"/>
+    <State id="1">
+      <Frame id="1">
+        <Image id="collectables/nutt1"/>
+        <Polygon>
+          <Point id="1" x="-18" y="0"/>
+          <Point id="2" x="0" y="18"/>
+          <Point id="3" x="18" y="0"/>
+          <Point id="4" x="2" y="-17"/>
+        </Polygon>
+        <Pivot x="28.5" y="28.5"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="nutt2" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="collectables/nutt2"/>
+        <Polygon>
+          <Point id="1" x="-18" y="1"/>
+          <Point id="2" x="0" y="17"/>
+          <Point id="3" x="18" y="0"/>
+          <Point id="4" x="1" y="-17"/>
+        </Polygon>
+        <Pivot x="28.5" y="28.5"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="nutt3" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="collectables/nutt3"/>
+        <Polygon>
+          <Point id="1" x="-16" y="0"/>
+          <Point id="2" x="0" y="16"/>
+          <Point id="3" x="17" y="0"/>
+          <Point id="4" x="0" y="-14"/>
+        </Polygon>
+        <Pivot x="28.5" y="28.5"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="boostb" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="collectables/boostb"/>
+        <Polygon>
+          <Point id="1" x="-12" y="0"/>
+          <Point id="2" x="0" y="13"/>
+          <Point id="3" x="13" y="1"/>
+          <Point id="4" x="0" y="-12"/>
+        </Polygon>
+        <Pivot x="28.5" y="28.5"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="boostr" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="collectables/boostr"/>
+        <Polygon>
+          <Point id="1" x="-12" y="0"/>
+          <Point id="2" x="1" y="12"/>
+          <Point id="3" x="12" y="1"/>
+          <Point id="4" x="0" y="-11"/>
+        </Polygon>
+        <Pivot x="28.5" y="28.5"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="boostg" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="collectables/boostg"/>
+        <Polygon>
+          <Point id="1" x="-12" y="0"/>
+          <Point id="2" x="1" y="14"/>
+          <Point id="3" x="12" y="1"/>
+          <Point id="4" x="0" y="-12"/>
+        </Polygon>
+        <Pivot x="28.5" y="28.5"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="boosty" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="collectables/boosty"/>
+        <Polygon>
+          <Point id="1" x="-13" y="0"/>
+          <Point id="2" x="0" y="14"/>
+          <Point id="3" x="13" y="0"/>
+          <Point id="4" x="0" y="-12"/>
+        </Polygon>
+        <Pivot x="28.5" y="28.5"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="xtree01b" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="trees/tree01b"/>
+        <Polygon>
+          <Point id="1" x="-14" y="-62"/>
+          <Point id="2" x="-15" y="1"/>
+          <Point id="3" x="16" y="-1"/>
+          <Point id="4" x="13" y="-78"/>
+          <Point id="5" x="46" y="-58"/>
+          <Point id="6" x="121" y="-56"/>
+          <Point id="7" x="146" y="-49"/>
+          <Point id="8" x="126" y="-66"/>
+          <Point id="9" x="76" y="-63"/>
+          <Point id="10" x="36" y="-73"/>
+          <Point id="11" x="17" y="-99"/>
+          <Point id="12" x="37" y="-113"/>
+          <Point id="13" x="45" y="-194"/>
+          <Point id="14" x="40" y="-202"/>
+          <Point id="15" x="27" y="-116"/>
+          <Point id="16" x="13" y="-114"/>
+          <Point id="17" x="11" y="-118"/>
+          <Point id="18" x="-14" y="-115"/>
+          <Point id="19" x="-19" y="-78"/>
+          <Point id="20" x="-35" y="-78"/>
+          <Point id="21" x="-141" y="-139"/>
+          <Point id="22" x="-145" y="-163"/>
+          <Point id="23" x="-151" y="-138"/>
+        </Polygon>
+        <Pivot x="195" y="222"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="xtree01a" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="trees/tree01a"/>
+        <Polygon>
+          <Point id="1" x="-14" y="-45"/>
+          <Point id="2" x="-44" y="2"/>
+          <Point id="3" x="55" y="3"/>
+          <Point id="4" x="20" y="-29"/>
+          <Point id="5" x="18" y="-119"/>
+          <Point id="6" x="33" y="-129"/>
+          <Point id="7" x="74" y="-103"/>
+          <Point id="8" x="141" y="-102"/>
+          <Point id="9" x="167" y="-126"/>
+          <Point id="10" x="168" y="-134"/>
+          <Point id="11" x="136" y="-108"/>
+          <Point id="12" x="80" y="-110"/>
+          <Point id="13" x="19" y="-140"/>
+          <Point id="14" x="14" y="-176"/>
+          <Point id="15" x="-12" y="-175"/>
+          <Point id="16" x="-17" y="-158"/>
+          <Point id="17" x="-88" y="-169"/>
+          <Point id="18" x="-182" y="-202"/>
+          <Point id="19" x="-184" y="-199"/>
+          <Point id="20" x="-113" y="-169"/>
+          <Point id="21" x="-145" y="-154"/>
+          <Point id="22" x="-136" y="-151"/>
+          <Point id="23" x="-93" y="-165"/>
+          <Point id="24" x="-43" y="-161"/>
+          <Point id="25" x="-15" y="-142"/>
+        </Polygon>
+        <Pivot x="223" y="226"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="xtree02" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="trees/tree02"/>
+        <Polygon>
+          <Point id="32" x="-30" y="-45"/>
+          <Point id="34" x="-68" y="4"/>
+          <Point id="35" x="55" y="1"/>
+          <Point id="36" x="27" y="-41"/>
+          <Point id="33" x="-34" y="-12"/>
+          <Point id="30" x="-101" y="-137"/>
+          <Point id="31" x="-22" y="-71"/>
+          <Point id="29" x="-212" y="-156"/>
+          <Point id="28" x="-215" y="-166"/>
+          <Point id="27" x="-107" y="-152"/>
+          <Point id="26" x="-98" y="-158"/>
+          <Point id="25" x="-70" y="-159"/>
+          <Point id="24" x="-63" y="-142"/>
+          <Point id="23" x="-7" y="-109"/>
+          <Point id="22" x="50" y="-158"/>
+          <Point id="1" x="35" y="-82"/>
+          <Point id="2" x="77" y="-116"/>
+          <Point id="4" x="74" y="-271"/>
+          <Point id="3" x="88" y="-177"/>
+          <Point id="5" x="90" y="-281"/>
+          <Point id="6" x="144" y="-288"/>
+          <Point id="7" x="192" y="-277"/>
+          <Point id="8" x="251" y="-305"/>
+          <Point id="9" x="242" y="-311"/>
+          <Point id="10" x="195" y="-287"/>
+          <Point id="11" x="140" y="-297"/>
+          <Point id="12" x="72" y="-290"/>
+          <Point id="13" x="34" y="-422"/>
+          <Point id="14" x="7" y="-392"/>
+          <Point id="15" x="-32" y="-392"/>
+          <Point id="16" x="-88" y="-408"/>
+          <Point id="17" x="-87" y="-397"/>
+          <Point id="18" x="-4" y="-377"/>
+          <Point id="19" x="24" y="-351"/>
+          <Point id="20" x="40" y="-287"/>
+          <Point id="21" x="55" y="-217"/>
+        </Polygon>
+        <Pivot x="258.6" y="522.85"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="xtree03a" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="trees/tree03a"/>
+        <Polygon>
+          <Point id="1" x="18" y="-73"/>
+          <Point id="23" x="53" y="3"/>
+          <Point id="24" x="20" y="-33"/>
+          <Point id="2" x="32" y="-96"/>
+          <Point id="3" x="65" y="-109"/>
+          <Point id="4" x="129" y="-184"/>
+          <Point id="5" x="184" y="-203"/>
+          <Point id="6" x="185" y="-207"/>
+          <Point id="8" x="117" y="-187"/>
+          <Point id="9" x="96" y="-153"/>
+          <Point id="11" x="19" y="-103"/>
+          <Point id="10" x="45" y="-109"/>
+          <Point id="12" x="13" y="-127"/>
+          <Point id="13" x="-13" y="-124"/>
+          <Point id="14" x="-33" y="-114"/>
+          <Point id="15" x="-127" y="-112"/>
+          <Point id="16" x="-176" y="-72"/>
+          <Point id="7" x="159" y="-206"/>
+          <Point id="17" x="-167" y="-67"/>
+          <Point id="18" x="-130" y="-100"/>
+          <Point id="19" x="-109" y="-106"/>
+          <Point id="20" x="-12" y="-105"/>
+          <Point id="21" x="-15" y="-37"/>
+          <Point id="22" x="-45" y="4"/>
+        </Polygon>
+        <Pivot x="245.7" y="232.15"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="xtree03b" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="trees/tree03b"/>
+        <Polygon>
+          <Point id="23" x="-16" y="-55"/>
+          <Point id="24" x="-16" y="0"/>
+          <Point id="25" x="20" y="0"/>
+          <Point id="26" x="21" y="-52"/>
+          <Point id="1" x="76" y="-61"/>
+          <Point id="2" x="70" y="-67"/>
+          <Point id="3" x="20" y="-64"/>
+          <Point id="4" x="27" y="-85"/>
+          <Point id="5" x="17" y="-108"/>
+          <Point id="6" x="16" y="-129"/>
+          <Point id="7" x="-16" y="-129"/>
+          <Point id="8" x="-18" y="-93"/>
+          <Point id="9" x="-84" y="-113"/>
+          <Point id="10" x="-115" y="-139"/>
+          <Point id="11" x="-199" y="-164"/>
+          <Point id="12" x="-200" y="-152"/>
+          <Point id="13" x="-164" y="-148"/>
+          <Point id="14" x="-106" y="-122"/>
+          <Point id="15" x="-100" y="-105"/>
+          <Point id="16" x="-58" y="-90"/>
+          <Point id="17" x="-108" y="-64"/>
+          <Point id="18" x="-146" y="-44"/>
+          <Point id="19" x="-170" y="-8"/>
+          <Point id="20" x="-160" y="-5"/>
+          <Point id="21" x="-140" y="-36"/>
+          <Point id="22" x="-46" y="-86"/>
+        </Polygon>
+        <Pivot x="253.65" y="185.25"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="xtree03c" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="trees/tree03c"/>
+        <Polygon>
+          <Point id="1" x="-13" y="-53"/>
+          <Point id="2" x="-12" y="5"/>
+          <Point id="3" x="20" y="-4"/>
+          <Point id="19" x="5" y="-75"/>
+          <Point id="18" x="24" y="-126"/>
+          <Point id="17" x="53" y="-143"/>
+          <Point id="16" x="71" y="-141"/>
+          <Point id="15" x="64" y="-134"/>
+          <Point id="14" x="51" y="-135"/>
+          <Point id="13" x="25" y="-114"/>
+          <Point id="12" x="17" y="-75"/>
+          <Point id="11" x="19" y="-33"/>
+          <Point id="10" x="105" y="3"/>
+          <Point id="9" x="157" y="52"/>
+          <Point id="8" x="170" y="83"/>
+          <Point id="7" x="164" y="83"/>
+          <Point id="6" x="153" y="58"/>
+          <Point id="5" x="127" y="45"/>
+          <Point id="4" x="85" y="3"/>
+        </Polygon>
+        <Pivot x="198" y="164"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="xtree04" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="trees/tree04"/>
+        <Polygon>
+          <Point id="48" x="-20" y="-46"/>
+          <Point id="50" x="-81" y="4"/>
+          <Point id="51" x="76" y="1"/>
+          <Point id="52" x="32" y="-20"/>
+          <Point id="1" x="29" y="-70"/>
+          <Point id="2" x="69" y="-68"/>
+          <Point id="3" x="88" y="-54"/>
+          <Point id="4" x="85" y="-70"/>
+          <Point id="5" x="54" y="-82"/>
+          <Point id="8" x="18" y="-215"/>
+          <Point id="6" x="25" y="-91"/>
+          <Point id="9" x="25" y="-247"/>
+          <Point id="10" x="70" y="-236"/>
+          <Point id="11" x="136" y="-211"/>
+          <Point id="12" x="184" y="-225"/>
+          <Point id="13" x="223" y="-228"/>
+          <Point id="14" x="209" y="-233"/>
+          <Point id="15" x="133" y="-218"/>
+          <Point id="16" x="96" y="-236"/>
+          <Point id="17" x="41" y="-255"/>
+          <Point id="18" x="25" y="-257"/>
+          <Point id="19" x="11" y="-344"/>
+          <Point id="20" x="47" y="-411"/>
+          <Point id="21" x="107" y="-435"/>
+          <Point id="22" x="125" y="-451"/>
+          <Point id="23" x="172" y="-440"/>
+          <Point id="24" x="180" y="-444"/>
+          <Point id="25" x="126" y="-460"/>
+          <Point id="26" x="84" y="-436"/>
+          <Point id="27" x="28" y="-413"/>
+          <Point id="28" x="-1" y="-351"/>
+          <Point id="29" x="-21" y="-348"/>
+          <Point id="30" x="-51" y="-360"/>
+          <Point id="31" x="-76" y="-366"/>
+          <Point id="32" x="-88" y="-386"/>
+          <Point id="33" x="-101" y="-393"/>
+          <Point id="34" x="-103" y="-385"/>
+          <Point id="35" x="-84" y="-361"/>
+          <Point id="36" x="-22" y="-340"/>
+          <Point id="37" x="-12" y="-271"/>
+          <Point id="38" x="-17" y="-152"/>
+          <Point id="39" x="-97" y="-177"/>
+          <Point id="40" x="-117" y="-201"/>
+          <Point id="41" x="-185" y="-207"/>
+          <Point id="42" x="-177" y="-200"/>
+          <Point id="43" x="-122" y="-197"/>
+          <Point id="44" x="-100" y="-169"/>
+          <Point id="45" x="-81" y="-156"/>
+          <Point id="46" x="-18" y="-133"/>
+          <Point id="7" x="16" y="-110"/>
+          <Point id="47" x="-19" y="-103"/>
+          <Point id="49" x="-42" y="-7"/>
+        </Polygon>
+        <Pivot x="235.4" y="523.1"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="tree01f" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="trees/front/tree_01"/>
+        <Polygon>
+          <Point id="1" x="-10" y="-10"/>
+          <Point id="2" x="-10" y="10"/>
+          <Point id="3" x="10" y="10"/>
+          <Point id="4" x="10" y="-10"/>
+        </Polygon>
+        <Pivot x="226" y="452"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="tree01b" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="trees/front/tree_01b"/>
+        <Polygon>
+          <Point id="1" x="-10" y="-10"/>
+          <Point id="2" x="-10" y="10"/>
+          <Point id="3" x="10" y="10"/>
+          <Point id="4" x="10" y="-10"/>
+        </Polygon>
+        <Pivot x="192" y="345"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="tree02a" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="trees/front/tree_02"/>
+        <Polygon>
+          <Point id="1" x="-10" y="-10"/>
+          <Point id="2" x="-10" y="10"/>
+          <Point id="3" x="10" y="10"/>
+          <Point id="4" x="10" y="-10"/>
+        </Polygon>
+        <Pivot x="305" y="547"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="tree02b" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="trees/front/tree_02b"/>
+        <Polygon>
+          <Point id="1" x="-10" y="-10"/>
+          <Point id="2" x="-10" y="10"/>
+          <Point id="3" x="10" y="10"/>
+          <Point id="4" x="10" y="-10"/>
+        </Polygon>
+        <Pivot x="197" y="356"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="tree03a" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="trees/front/tree_03"/>
+        <Polygon>
+          <Point id="1" x="-10" y="-10"/>
+          <Point id="2" x="-10" y="10"/>
+          <Point id="3" x="10" y="10"/>
+          <Point id="4" x="10" y="-10"/>
+        </Polygon>
+        <Pivot x="304" y="545"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="tree03b" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="trees/front/tree_03b"/>
+        <Polygon>
+          <Point id="1" x="-10" y="-10"/>
+          <Point id="2" x="-10" y="10"/>
+          <Point id="3" x="10" y="10"/>
+          <Point id="4" x="10" y="-10"/>
+        </Polygon>
+        <Pivot x="197" y="353"/>
+      </Frame>
+    </State>
+  </Object>
+  <Object id="hillsM" onePolygon="false">
+    <State id="1">
+      <Frame id="1">
+        <Image id="trees/hills"/>
+        <Polygon>
+          <Point id="1" x="-10" y="-10"/>
+          <Point id="2" x="-10" y="10"/>
+          <Point id="3" x="10" y="10"/>
+          <Point id="4" x="10" y="-10"/>
+        </Polygon>
+        <Pivot x="401" y="153"/>
+      </Frame>
+    </State>
+  </Object>
+</ObjectDefinitions>

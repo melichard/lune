@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:f3c124b05e1d79abbb742fd4d49854c9$ -->
+<TextureAtlas imagePath="atlas01.png">
+    <SubTexture name="squirell01" x="50" y="2" width="46" height="115" frameX="-1" frameY="-9" frameWidth="50" frameHeight="135"/>
+    <SubTexture name="squirell02" x="94" y="119" width="42" height="115" frameX="-2" frameY="-9" frameWidth="50" frameHeight="135"/>
+    <SubTexture name="squirell03" x="46" y="125" width="46" height="117" frameX="0" frameY="-8" frameWidth="50" frameHeight="135"/>
+    <SubTexture name="squirell04" x="2" y="125" width="42" height="119" frameX="-3" frameY="-9" frameWidth="50" frameHeight="135"/>
+    <SubTexture name="squirell05" x="2" y="2" width="46" height="121" frameX="0" frameY="-7" frameWidth="50" frameHeight="135"/>
+    <SubTexture name="squirell06" x="98" y="2" width="42" height="113" frameX="-2" frameY="-14" frameWidth="50" frameHeight="135"/>
+    <SubTexture name="squirell07" x="138" y="117" width="50" height="111" frameX="0" frameY="-15" frameWidth="50" frameHeight="135"/>
+</TextureAtlas>
