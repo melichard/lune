@@ -27,7 +27,7 @@ public class Bird extends GameObject
         super(Position, id);
 
 //        _setTexture(_states[_state.x][_state.y]);
-        _setPivot (_pivots[_state.x][_state.y]);
+//        _setPivot (_pivots[_state.x][_state.y]);
 
 //        if (_id == "nutt0")
 //            _score = 50;
@@ -40,10 +40,14 @@ public class Bird extends GameObject
 
 
 
+        var random:int = Math.floor(Math.random()*10);
+        if (random < 5)
         var movie :Movie = GraphicsLoader._getMovieFromLibrary("BirdGT");
+        else
+        var movie :Movie = GraphicsLoader._getMovieFromLibrary("BirdRT");
+
         movie.x = 0;
         movie.y = 0;
-
         movie = movie.loop();
 
         Starling.juggler.add(movie);

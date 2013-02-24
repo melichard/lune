@@ -14,7 +14,7 @@
     <file path="$PROJECT_DIR$/libs/pixelmask-master/bin/pixelmask-master.swc!/catalog.xml" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1355591137058" ignored="false" />
     <file path="/AirFlyer.as" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1358928632098" ignored="false" />
     <file path="/LevelProvider.as" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1356009937944" ignored="false" />
-    <file path="/GraphicsLoader.as" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1360863409270" ignored="false" />
+    <file path="/GraphicsLoader.as" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1361715084932" ignored="false" />
     <file path="/EffectMenuPlanet.as" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1358932988500" ignored="false" />
     <file path="/MenuScreen_HS.as" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1359398872021" ignored="false" />
     <file path="/Screen.as" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1358452645118" ignored="false" />
@@ -28,8 +28,8 @@
     <file path="/fragment.js" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1360862558771" ignored="false" />
     <file path="/SettingsMaster.as" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1358851787961" ignored="false" />
     <file path="/MainEngine_HS.as" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1360862946494" ignored="false" />
-    <file path="$PROJECT_DIR$/AirFlyerDesktop/bin-debug/app-descriptor.xml" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1361098300546" ignored="false" />
-    <file path="/GameScreen_HS.as" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1359482189948" ignored="false" />
+    <file path="$PROJECT_DIR$/AirFlyerDesktop/bin-debug/app-descriptor.xml" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1361708233627" ignored="false" />
+    <file path="/GameScreen_HS.as" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1361636653477" ignored="false" />
     <file path="/Image.as" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1360005373502" ignored="false" />
     <file path="/EdGameLevel.as" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1360005426916" ignored="false" />
     <file path="/ProjectFile.as" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1359132359117" ignored="false" />
@@ -46,7 +46,7 @@
     <file path="/EdObjectType.as" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1359998529671" ignored="false" />
     <file path="/ObjectPopUp.as" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1359999668654" ignored="false" />
     <file path="/Editor.as" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1359999124767" ignored="false" />
-    <file path="/Bird.as" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1360788834869" ignored="false" />
+    <file path="/Bird.as" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1361634708198" ignored="false" />
     <file path="/Future.as" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1360787724631" ignored="false" />
     <file path="/Movie.as" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1361097917085" ignored="false" />
     <file path="$PROJECT_DIR$/libs/starling.swc!/library.swf" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1360787155200" ignored="false" />
@@ -55,6 +55,7 @@
     <file path="$PROJECT_DIR$/AirFlyer/bin-debug/app-descriptor.xml" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1360787253497" ignored="false" />
     <file path="/Collectable.as" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1360864954666" ignored="false" />
     <file path="/GuiScore.as" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1360865164642" ignored="false" />
+    <file path="/Radiol.as" changelist="99e4860e-cf01-4cb4-8ff2-9e0e8e4537b5" time="1361722638406" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +70,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -104,6 +104,7 @@
         <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -117,55 +118,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="GameScreen_HS.as" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="GameScreen_HS.as" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FlyerEngine/src/screen/GameScreen_HS.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="542" column="44" selection-start="15236" selection-end="15265" vertical-scroll-proportion="0.0">
+            <state line="540" column="48" selection-start="15003" selection-end="15003" vertical-scroll-proportion="0.37317073">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GameScreen.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FlyerEngine/src/screen/GameScreen.as">
+      <file leaf-file-name="Radiol.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FlyerEngine/src/objects/obstacles/Radiol.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="200" column="5" selection-start="4544" selection-end="4544" vertical-scroll-proportion="0.0">
+            <state line="22" column="24" selection-start="502" selection-end="502" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SettingsMaster.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FlyerEngine/src/helpers/SettingsMaster.as">
+      <file leaf-file-name="LibraryLoader.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libs/flump/src/main/as/flump/display/LibraryLoader.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="57" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0">
+            <state line="126" column="31" selection-start="4339" selection-end="4339" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SoundHelper.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FlyerEngine/src/helpers/SoundHelper.as">
+      <file leaf-file-name="Movie.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libs/flump/src/main/as/flump/display/Movie.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="130" selection-start="1070" selection-end="1070" vertical-scroll-proportion="0.0">
+            <state line="36" column="9" selection-start="1488" selection-end="1488" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AirFlyer.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AirFlyer/src/AirFlyer.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="38" selection-start="601" selection-end="601" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Collectable.as" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Collectable.as" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FlyerEngine/src/objects/collectables/Collectable.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="21" selection-start="401" selection-end="401" vertical-scroll-proportion="-0.275">
+            <state line="37" column="29" selection-start="806" selection-end="806" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -174,7 +166,16 @@
       <file leaf-file-name="Bird.as" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FlyerEngine/src/objects/collectables/Bird.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="42" selection-start="748" selection-end="748" vertical-scroll-proportion="0.0">
+            <state line="46" column="54" selection-start="1065" selection-end="1065" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GraphicsLoader.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GraphicsProvider/src/GraphicsLoader.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="200" column="70" selection-start="7943" selection-end="7943" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -183,16 +184,16 @@
       <file leaf-file-name="GameObject.as" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FlyerEngine/src/objects/GameObject.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="24" selection-start="1328" selection-end="1328" vertical-scroll-proportion="0.0">
+            <state line="45" column="46" selection-start="995" selection-end="995" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Squirrel.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FlyerEngine/src/objects/Squirrel.as">
+      <file leaf-file-name="ObjectProvider.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FlyerEngine/src/helpers/ObjectProvider.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="79" selection-start="1187" selection-end="1187" vertical-scroll-proportion="0.0">
+            <state line="27" column="64" selection-start="873" selection-end="873" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -201,7 +202,7 @@
       <file leaf-file-name="MainEngine_HS.as" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FlyerEngine/src/MainEngine_HS.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="93" column="96" selection-start="2156" selection-end="2156" vertical-scroll-proportion="0.0">
+            <state line="101" column="87" selection-start="2347" selection-end="2347" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -217,12 +218,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/FlyerEngine/src/objects/obstacles/Radiol.as" />
-        <option value="$PROJECT_DIR$/FlyerEditor/src/utitilites/StarlingCatcher.as" />
         <option value="$PROJECT_DIR$/GraphicsProvider/src/GraphicsProvider.as" />
         <option value="$PROJECT_DIR$/libs/flump/src/main/as/flump/executor/Future.as" />
         <option value="$PROJECT_DIR$/FlyerEngine/src/gui/SimpleButton.as" />
-        <option value="$PROJECT_DIR$/GraphicsProvider/src/GraphicsLoader.as" />
         <option value="$PROJECT_DIR$/FlyerEngine/src/gui/GuiScore.as" />
         <option value="$PROJECT_DIR$/libs/flump/src/main/as/flump/display/Movie.as" />
         <option value="$PROJECT_DIR$/FlyerEngine/src/objects/GameObject.as" />
@@ -233,6 +231,9 @@
         <option value="$PROJECT_DIR$/FlyerEngine/src/objects/collectables/Collectable.as" />
         <option value="$PROJECT_DIR$/FlyerEngine/src/objects/collectables/Bird.as" />
         <option value="$PROJECT_DIR$/FlyerEngine/src/screen/GameScreen_HS.as" />
+        <option value="$PROJECT_DIR$/FlyerEngine/src/helpers/ObjectProvider.as" />
+        <option value="$PROJECT_DIR$/GraphicsProvider/src/GraphicsLoader.as" />
+        <option value="$PROJECT_DIR$/FlyerEngine/src/objects/obstacles/Radiol.as" />
       </list>
     </option>
   </component>
@@ -273,7 +274,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -448,9 +448,106 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fbuilder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flump" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fbuilder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flump" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="as" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flump" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mold" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fbuilder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flump" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="as" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flump" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fbuilder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flump" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="as" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flump" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="display" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -486,7 +583,7 @@
       <recent name="C:\Users\Tomas\Documents\GitHub\fbuilder\FlyerEditor\src\popups" />
     </key>
   </component>
-  <component name="RunManager" selected="Flash App.AirFlyer">
+  <component name="RunManager" selected="Flash App.AirFlyerDesktop">
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -754,13 +851,14 @@
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32737276" sideWeight="0.47619048" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287483" sideWeight="0.494852" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32239383" sideWeight="0.36176065" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33140284" sideWeight="0.6451169" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35488307" sideWeight="0.61068213" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34942085" sideWeight="0.6464924" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35350758" sideWeight="0.61068213" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24602203" sideWeight="0.12314709" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48968363" sideWeight="0.3848134" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287483" sideWeight="0.42599744" order="2" side_tool="false" content_ui="tabs" />
@@ -768,7 +866,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287483" sideWeight="0.497426" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32737276" sideWeight="0.47619048" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24967825" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3989432" sideWeight="0.49731904" order="4" side_tool="false" content_ui="tabs" />
@@ -831,7 +928,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="flex">
           <url>file://$PROJECT_DIR$/FlyerEngine/src/screen/GameScreen_HS.as</url>
-          <line>816</line>
+          <line>820</line>
           <option name="timeStamp" value="57" />
         </line-breakpoint>
       </breakpoints>
@@ -846,31 +943,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/libs/flump/src/main/as/flump/executor/FutureTask.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="43" selection-start="1454" selection-end="1454" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlyerEngine/src/helpers/ScoreHelper.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="32" selection-start="552" selection-end="552" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlyerEngine/src/gui/GuiScore.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="87" selection-start="1378" selection-end="1378" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlyerEngine/src/helpers/SharedSpace_HS.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libs/flump/src/main/as/flump/display/Movie.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="184" column="93" selection-start="7345" selection-end="7345" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FlyerEngine/src/objects/Squirrel_HS.as">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="23" selection-start="418" selection-end="418" vertical-scroll-proportion="0.0" />
@@ -878,9 +950,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FlyerEngine/src/objects/Squirrel.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="79" selection-start="1187" selection-end="1187" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="50" column="79" selection-start="1187" selection-end="1187" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FlyerEngine/src/screen/GameScreen.as">
@@ -892,56 +962,85 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FlyerEngine/src/helpers/SettingsMaster.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="57" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="18" column="57" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FlyerEngine/src/helpers/SoundHelper.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="130" selection-start="1070" selection-end="1070" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="33" column="130" selection-start="1070" selection-end="1070" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AirFlyer/src/AirFlyer.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="38" selection-start="601" selection-end="601" vertical-scroll-proportion="0.0">
+        <state line="28" column="38" selection-start="601" selection-end="601" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlyerEngine/src/objects/collectables/Collectable.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="29" selection-start="806" selection-end="806" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FlyerEngine/src/MainEngine_HS.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="96" selection-start="2156" selection-end="2156" vertical-scroll-proportion="0.0">
+        <state line="101" column="87" selection-start="2347" selection-end="2347" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FlyerEngine/src/objects/GameObject.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="24" selection-start="1328" selection-end="1328" vertical-scroll-proportion="0.0">
+        <state line="45" column="46" selection-start="995" selection-end="995" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlyerEngine/src/helpers/ObjectProvider.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="64" selection-start="873" selection-end="873" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FlyerEngine/src/objects/collectables/Bird.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="42" selection-start="748" selection-end="748" vertical-scroll-proportion="0.0">
+        <state line="46" column="54" selection-start="1065" selection-end="1065" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/flump/src/main/as/flump/display/Movie.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="9" selection-start="1488" selection-end="1488" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/flump/src/main/as/flump/display/LibraryLoader.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="126" column="31" selection-start="4339" selection-end="4339" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphicsProvider/src/GraphicsLoader.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="200" column="70" selection-start="7943" selection-end="7943" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlyerEngine/src/objects/obstacles/Radiol.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="24" selection-start="502" selection-end="502" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FlyerEngine/src/screen/GameScreen_HS.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="542" column="44" selection-start="15236" selection-end="15265" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlyerEngine/src/objects/collectables/Collectable.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="21" selection-start="401" selection-end="401" vertical-scroll-proportion="-0.275">
+        <state line="540" column="48" selection-start="15003" selection-end="15003" vertical-scroll-proportion="0.37317073">
           <folding />
         </state>
       </provider>

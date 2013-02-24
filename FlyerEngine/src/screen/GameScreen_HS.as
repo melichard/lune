@@ -27,9 +27,11 @@ import mx.skins.halo.TitleBackground;
 import objects.GameObject;
 import objects.Planet;
 import objects.Squirrel;
+import objects.collectables.Bird;
 import objects.collectables.Collectable;
 import objects.enemies.Enemy;
 import objects.obstacles.Obstacle;
+import objects.obstacles.Radiol;
 
 import org.osflash.signals.Signal;
 
@@ -503,16 +505,6 @@ public class GameScreen_HS extends Screen{
 		object.isHit = false;
         gObjects.push(object);
         game.addChildAt(object, game.getChildIndex(squirrel));
-        var object:GameObject = _obstacles[_obstaclesN];
-        var objectPosition:Point = game.globalToLocal(new Point(center.x + planet.radius, center.y + 250 - content.pivotY));
-        object.changeType("tree01f");
-        object.x = objectPosition.x;
-        object.y = objectPosition.y;
-        object.rotate(center);
-        object._firstHit = true;
-        object.isHit = false;
-        gObjects.push(object);
-        game.addChildAt(object, game.getChildIndex(squirrel));
 
 		/*for (var i:int = 0; i < 9 ; i++)
 		{
@@ -547,12 +539,24 @@ public class GameScreen_HS extends Screen{
             type = "nutt3";
         var object:GameObject = _collectables[_collectablesN];
 		object.changeType(type);
-		object.x = objectPosition.x;
-		object.y = objectPosition.y;
 		_collectablesN++;
 		object._firstHit = true;
 		object.isHit = false;
+
+        if (random<20)
+        {
+            object = new Bird(objectPosition);
+        }
+        var random3:int = Math.floor(Math.random()*10);
+
+        if (random3 > 7)
+        {
+            object = new Radiol(objectPosition);
+        }
+        object.x = objectPosition.x;
+        object.y = objectPosition.y;
         object.rotate(center);
+
         gObjects.push(object);
         game.addChild(object);
 

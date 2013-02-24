@@ -17,6 +17,7 @@ import flump.display.Movie;
 import flump.executor.Future;
 
 import starling.core.Starling;
+import starling.display.Image;
 
 import starling.events.Event;
 
@@ -193,6 +194,19 @@ public class GraphicsLoader {
 
         return movie;
     }
+
+    public static function _getImageFromLibrary(name:String):Image
+    {
+        var image:Image = _library.createImage(name);
+        image.addEventListener(Event.ADDED_TO_STAGE, function listener (e :Event) :void {
+            e.target.removeEventListener(e.type, listener);
+        });
+
+
+        return image;
+    }
+
+
     public static function getFrame(name:String):starling.textures.Texture
     {
         return atlas.getTexture(name);
