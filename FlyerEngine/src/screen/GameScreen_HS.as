@@ -504,7 +504,7 @@ public class GameScreen_HS extends Screen{
 		object._firstHit = true;
 		object.isHit = false;
         gObjects.push(object);
-        game.addChildAt(object, game.getChildIndex(squirrel));
+        game.addChildAt(object, game.getChildIndex(planet));
 
 		/*for (var i:int = 0; i < 9 ; i++)
 		{
@@ -709,7 +709,7 @@ public class GameScreen_HS extends Screen{
     private function _initPauseButton():void
     {
         pause = new Image(GraphicsLoader.pause);
-//        pause.addEventListener(starling.events.TouchEvent.TOUCH, _onPauseButton);
+        pause.addEventListener(starling.events.TouchEvent.TOUCH, _onPauseButton);
         addChild(pause);
         pause.x = -20;
         pause.y = -20;
