@@ -210,12 +210,25 @@ import starling.events.Touch;
             _controlSwitch = true;
         }
 
-        public function collides(polygon:Polygon):Boolean
+        public function collides(gameObject:GameObject):Boolean
         {
             for (var i:int = 0; i < 9; i++)
             {
-                if (_parts[i].polygon.collides(polygon))
-                    return true;
+                if (gameObject.radius == 0)
+                {
+                    if (_parts[i].polygon.collides(gameObject.polygon))
+                    {
+                        gameObject.hitAt(this.localToGlobal(_parts[i].position))
+                        return true;
+                    }
+                } else
+                {
+                    if (Point.distance(parent.localToGlobal(gameObject.position), this.localToGlobal(_parts[i].position)) <= gameObject.radius)
+                    {
+                        gameObject.hitAt(this.localToGlobal(_parts[i].position))
+                        return true;
+                    }
+                }
             }
             return false;
         }

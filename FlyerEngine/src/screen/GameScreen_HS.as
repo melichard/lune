@@ -246,7 +246,7 @@ public class GameScreen_HS extends Screen{
                     if (squirrel.parts[j].getBounds(game).intersects(gObjects[i].getBounds(game)))
                     {
 
-                        if (squirrel.collides(gObjects[i].polygon) && gObjects[i]._firstHit)
+                        if (squirrel.collides(gObjects[i]) && gObjects[i]._firstHit)
                         {
                             gObjects[i].onHit();
 
@@ -290,6 +290,7 @@ public class GameScreen_HS extends Screen{
 								_time += 120;
 								_component._set(_time);
                             }
+
 
                         }
                     }

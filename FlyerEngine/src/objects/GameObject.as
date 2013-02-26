@@ -19,6 +19,8 @@ import starling.display.Sprite;
 		protected var _texture:starling.display.Image;
         protected var _polygon:Polygon;
 
+        protected var _radius:Number;
+
         protected var _state:Point;
 
         protected var _states:Vector.<Vector.<String>>;
@@ -30,9 +32,11 @@ import starling.display.Sprite;
         public var _firstHit:Boolean;
 
         private var _position:Point;
+
+        protected var _hitPoint:Point;
 		
 		
-		public function GameObject(position:Point, id:String = "xtree01a")
+		public function GameObject(position:Point, id:String = "xtree01a", radius:Number = 0)
 		{
             _id = id;
 
@@ -47,6 +51,8 @@ import starling.display.Sprite;
             _states = ObjectProvider.getStates(this);
             _pivots = ObjectProvider.getPivots(this);
             _score = 400;
+
+            _radius = radius;
 
             isHit = false;
             _firstHit = true;
@@ -124,6 +130,16 @@ import starling.display.Sprite;
         public function get score():int
         {
             return _score;
+        }
+
+        public function get radius():int
+        {
+            return _radius;
+        }
+
+        public function hitAt(point:Point):void
+        {
+            _hitPoint = point;
         }
 
 	}

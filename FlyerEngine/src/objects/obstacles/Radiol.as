@@ -25,7 +25,7 @@ public class Radiol extends GameObject
 
     public function Radiol(position:Point, id:String = "tree01f")
 		{
-			super(position, id);
+			super(position, id, 300);
 
 //            _setTexture(_states[_state.x][_state.y]);
 //            _setPivot (_pivots[_state.x][_state.y]);
@@ -59,6 +59,7 @@ public class Radiol extends GameObject
             if (_firstHit)
             {
                 _firstHit = false;
+                effect (this.globalToLocal(_hitPoint))
             }
         }
 

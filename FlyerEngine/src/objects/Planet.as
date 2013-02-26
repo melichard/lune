@@ -6,11 +6,9 @@ import starling.display.Image;
 
 public class Planet extends GameObject
 	{
-        private var _radius:Number;
 
 		public function Planet(size:int)
 		{
-            _radius = size;
 
             var _type:String;
             switch (size){
@@ -24,14 +22,10 @@ public class Planet extends GameObject
                     _type = "planet_large"; break;
 
             }
-			super(new Point());
+			super(new Point(),_type, size);
             _setTexture(_type);
 		}
 
-        public function get radius():Number
-        {
-            return _radius;
-        }
 
         protected override function _setTexture(type:String):void
         {
